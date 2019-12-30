@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KibaOcelot", "KibaOcelot.csproj", "{38F56277-099C-47F2-8A28-9067D9B29E32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User", "..\User\User.csproj", "{69B6B589-5065-496A-A463-92CE174330BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product", "..\Product\Product.csproj", "{95D2726C-BE4B-4B3D-959D-89B71396CB1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F56277-099C-47F2-8A28-9067D9B29E32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38F56277-099C-47F2-8A28-9067D9B29E32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38F56277-099C-47F2-8A28-9067D9B29E32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38F56277-099C-47F2-8A28-9067D9B29E32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69B6B589-5065-496A-A463-92CE174330BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69B6B589-5065-496A-A463-92CE174330BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69B6B589-5065-496A-A463-92CE174330BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69B6B589-5065-496A-A463-92CE174330BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95D2726C-BE4B-4B3D-959D-89B71396CB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95D2726C-BE4B-4B3D-959D-89B71396CB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95D2726C-BE4B-4B3D-959D-89B71396CB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95D2726C-BE4B-4B3D-959D-89B71396CB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C67289-AD31-49AA-B1FC-7A284369CFF9}
+	EndGlobalSection
+EndGlobal
